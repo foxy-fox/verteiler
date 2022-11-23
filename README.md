@@ -3,5 +3,6 @@ Python-Script um eine Menge an Personen gleichmässig auf die Tage eines Monats 
 
 # Verwendung:
 verteiler.py [mit Leerzeichen getrennte Liste von Namen]
+<br/>
 z.B.
 verteiler.py Max Lisa Anton
